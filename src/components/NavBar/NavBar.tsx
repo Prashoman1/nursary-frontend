@@ -20,8 +20,8 @@ export default function NavBar() {
       },
   
       {
-        name: "Services",
-        path: "/services",
+        name: "Products",
+        path: "/products",
       },
       {
         name: "Portfolio",
